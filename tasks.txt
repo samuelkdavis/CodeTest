@@ -1,0 +1,4 @@
+* fix weighting
+* handle graph loops
+* todo handle 404/500's
+* handle rate limiting
